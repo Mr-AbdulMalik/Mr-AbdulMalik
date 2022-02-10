@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Android app development
 - 🌱 I’m currently persuing CSE from Maulana Azad National Urdu University, Hyderabad
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me am44565@gmail.com
+- 📫 How to reach me official404malik@gmail.com
 
 <!---
 Mr-AbdulMalik/Mr-AbdulMalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
